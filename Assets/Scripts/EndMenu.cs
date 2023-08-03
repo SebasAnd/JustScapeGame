@@ -9,3 +9,4 @@ public class EndMenu : MonoBehaviour
         Application.Quit();
     }
 }
+
