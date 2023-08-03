@@ -43,9 +43,12 @@ TagManager:
   - name: Background
     uniqueID: 1630157747
     locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
   - name: Terrain
     uniqueID: 3610315011
     locked: 0
-  - name: Default
-    uniqueID: 0
+  - name: Trap
+    uniqueID: 2904143721
     locked: 0
